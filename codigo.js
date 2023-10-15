@@ -16,7 +16,6 @@ var fila="<tr><td class='id'></td><td class='foto'></td><td class='price'></td><
 	  
 	function listarProductos(productos) {
 
-		orden=0;
 	  var form=document.getElementById("form");
 	  form.style.display="none";
 	  var boton=document.getElementById("btnAgregar");
